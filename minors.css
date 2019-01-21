@@ -4,3 +4,9 @@
     margin-right: auto;
     width:50%;
   }
+.boxes {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+  }
